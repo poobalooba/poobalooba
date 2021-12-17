@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @poobalooba
 - 👀 I’m interested in ... linux, app development, web development, powershell, coding in general
-- 🌱 I’m currently learning ... powershell scripting
-- 💞️ I’m looking to collaborate on ... nothing at the current moment, but always welcome criticism
+- 🌱 I’m currently learning ... c# application development, SQL, and Github/Git
+- 💞️ I’m looking to collaborate on ... scripts (bash and powershell), c++ code, maybe some SQL if I feel froggy, and I always welcome criticism
 - 📫 How to reach me ... will share at a later time
 
 <!---
